@@ -1,4 +1,4 @@
-## Opa! Eai! Meu nome é João Assis e atualmente atuo com Operações no Itaú Unibanco! <img align="center" alt="HTML" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ita%C3%BA_Unibanco_logo_2023.svg/1200px-Ita%C3%BA_Unibanco_logo_2023.svg.png">
+## Opa! Eai! Meu nome é João Assis e atualmente atuo com Operações no Itaú Unibanco! <img align="center" alt="HTML" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ita%C3%BA_Unibanco_logo_2023.svg/1200px-Ita%C3%BA_Unibanco_logo_2023.svg.png">
 
 Sou João, atualmente estagiário de Operações no Itaú, onde faço parte de um time que busca soluções eficientes e inovadoras para otimizar processos e garantir a excelência operacional. Tenho experiência em desenvolvimento web, Java, JS e Python, com um foco crescente em análise e automação de dados.
 
