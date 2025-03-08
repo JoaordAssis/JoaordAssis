@@ -14,11 +14,19 @@ Trabalho em colaboração com minha equipe para superar desafios e implementar m
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScrpit" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="lean" height="40" width="40" src="https://cdn.sanity.io/images/599r6htc/regionalized/5094051dac77593d0f0978bdcbabaf79e5bb855c-1080x1080.png?w=540&h=540&q=75&fit=max&auto=format">
+  <img align="center" alt="lean" height="30" width="30" src="https://casadosoftware.com.br/wp-content/uploads/2022/06/adobe-photoshop-logo-2.png">
+
+  
 
   <a href="https://www.credly.com/badges/dc5c4be5-0a25-45bb-99b9-7535d72125a9">
     <img align="center" alt="AWS Practicioner" height="50" width="50" src="https://images.credly.com/size/340x340/images/3151b077-3f06-49e8-b319-e4ef69bb19ec/image.png">
   </a>
   <img align="center" alt="lean" height="40" width="40" src="https://images.credly.com/images/b2b40aab-61c3-4af9-871c-96afdd274b69/image.png">
+  
+
+
+  
 </div>
 
 <hr>
@@ -27,3 +35,12 @@ Trabalho em colaboração com minha equipe para superar desafios e implementar m
 <a href="https://www.linkedin.com/in/assis-jo%C3%A3o/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:joaocr.assis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+
+<div>
+    <a href="https://github.com/JoaordAssis">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaordAssis&show_icons=true&theme=default&include_all_commits=true&count_private=true&locale=pt-br"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaordAssis&layout=compact&langs_count=16&theme=default&locale=pt-br"/>
+    </a>
+</div>
+
